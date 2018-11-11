@@ -1,1 +1,1 @@
-a3j.consulting/
+a3j.consulting
